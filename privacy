@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Privacy Policy</title>
+<style>
+  body { font-family: -apple-system, Segoe UI, Arial, sans-serif; max-width: 700px; margin: 40px auto; padding: 0 20px; line-height: 1.6; color: #222; }
+  h1 { border-bottom: 2px solid #5865F2; padding-bottom: 10px; }
+  h2 { color: #5865F2; margin-top: 30px; }
+</style>
+</head>
+<body>
+<h1>Privacy Policy</h1>
+<p>Last updated: September 2026</p>
+ 
+<p>This Privacy Policy explains what information this Discord bot (the "Bot") collects and how it is used.</p>
+ 
+<h2>1. Information We Collect</h2>
+<p>The Bot stores the following data for each user who interacts with its commands:</p>
+<ul>
+  <li>Discord user ID</li>
+  <li>Virtual currency balance and transaction history within the Bot</li>
+  <li>Inventory of items purchased through the Bot's shop</li>
+</ul>
+<p>The Bot does not collect message content, personal contact information, or any data beyond what is needed for its economy features.</p>
+ 
+<h2>2. How We Use Information</h2>
+<p>Stored data is used solely to operate the Bot's features, such as tracking balances, cooldowns, and leaderboards within the servers where the Bot is added.</p>
+ 
+<h2>3. Data Storage</h2>
+<p>Data is stored locally by the Bot's operator and is not sold or shared with third parties.</p>
+ 
+<h2>4. Data Removal</h2>
+<p>If you would like your data removed, contact the Bot's operator via the support contact listed on the Bot's Discord application page.</p>
+ 
+<h2>5. Changes to This Policy</h2>
+<p>This Privacy Policy may be updated from time to time. Continued use of the Bot after changes are posted constitutes acceptance of the updated policy.</p>
+ 
+</body>
+</html>
